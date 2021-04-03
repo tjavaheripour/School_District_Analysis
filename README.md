@@ -16,7 +16,7 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
     - After reading scores by grade
-    ![After reading scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20reading%20scores%20by%20grade.PNG)
+    - ![After reading scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20reading%20scores%20by%20grade.PNG)
 
     - Before reading scores by grade
     ![Before reading scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20reading%20scores%20by%20grade.PNG)
