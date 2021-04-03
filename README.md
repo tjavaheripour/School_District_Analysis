@@ -30,28 +30,28 @@ The school board has notified analyst about evidence of academic dishonesty; spe
   
   - Scores by school spending
   
-    Scores after school spending
+    - Scores after school spending
     ![After school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20spending.PNG)
 
-    Scores before school spending
+    - Scores before school spending
     ![Before school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20spending.PNG)
 
 
   - Scores by school size
 
-    Scores after school size
+    - Scores after school size
     ![After school size.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20size.PNG)
 
-    Scores before school size
+    - Scores before school size
     ![Before school size.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20size.PNG)
 
 
   - Scores by school type
 
-    Scores after school size
+    - Scores after school size
     ![Before school type.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20type.PNG)
 
-    Scores before school size
+    - Scores before school size
     ![After school type.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20type.PNG)
 
 ## Summary
