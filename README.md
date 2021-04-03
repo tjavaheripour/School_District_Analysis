@@ -13,6 +13,10 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 
 ## Results
 
-
+- How does replacing the ninth-grade scores affect the following:
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
 
 ## Summary
