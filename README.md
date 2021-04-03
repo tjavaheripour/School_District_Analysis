@@ -17,26 +17,42 @@ The school board has notified analyst about evidence of academic dishonesty; spe
   - Math and reading scores by grade
   
   After reading scores by grade
-  
   ![After reading scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20reading%20scores%20by%20grade.PNG)
 
   Before reading scores by grade
-
   ![Before reading scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20reading%20scores%20by%20grade.PNG)
 
-
   After Math scores by grade
-
   ![After Math scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20Math%20scores%20by%20grade.PNG)
 
-
   Before Math scores by grade
-
   ![Before Math scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20Math%20scores%20by%20grade.PNG)
 
   
   - Scores by school spending
+  
+    Scores after school spending
+  ![After school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20spending.PNG)
+
+    Scores before school spending
+  ![Before school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20spending.PNG)
+
+
   - Scores by school size
+
+    Scores after school size
+  ![After school size.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20size.PNG)
+
+    Scores before school size
+  ![Before school size.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20size.PNG)
+
+
   - Scores by school type
+
+    Scores after school size
+  ![Before school type.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20type.PNG)
+
+    Scores before school size
+  ![After school type.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20type.PNG)
 
 ## Summary
