@@ -45,7 +45,8 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 
   
   - Scores by school spending
-  
+
+    We can see the results of tables according to spending ranges have not changed before and after changing the 9th graders to NaN.
     - Scores after school spending
     - ![After school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20spending.PNG)
 
