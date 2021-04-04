@@ -27,9 +27,7 @@ The school board has notified analyst about evidence of academic dishonesty; spe
     - ![School Summary before.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/School%20Summary%20before.PNG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-
-
+   - ![replacing.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/replacing.PNG)
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
