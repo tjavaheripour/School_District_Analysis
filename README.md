@@ -24,10 +24,11 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 - How is the school summary affected?
 
 The figures remained unaffected for all schools except Thomas High School which shows a significant drop in passing rates.  Passing math rate and passing reading rate declined considerably reaching 66.91% from 93.27% and 69.66% from 97.30% respectively causing the overall passing rate to drop 26% whereas the average math and reading scores only illustrate a negligible drop
-  - School Summary after
+
+   - School Summary after
     - ![School Summary after.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/School%20Summary%20after.PNG)
 
-  - School Summary before
+   - School Summary before
     - ![School Summary before.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/School%20Summary%20before.PNG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -36,7 +37,7 @@ The figures remained unaffected for all schools except Thomas High School which 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   
-    From the following tables we can see the average math and reading scores of Thomas High School 9th graders, replaced by nan while it was assigned to 83.7 as Reading score and 83.6 as Math score before.
+     In the following tables we can see the average math and reading scores of Thomas High School 9th graders have been replaced by nan where they were previously 83.6 and 83.7 respectively.
     - After reading scores by grade
     - ![After reading scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20reading%20scores%20by%20grade.PNG)
 
@@ -52,7 +53,7 @@ The figures remained unaffected for all schools except Thomas High School which 
   
   - Scores by school spending
 
-    We can see the results of tables according to spending ranges have not changed before and after changing the 9th graders to NaN.
+    As shown in the table, spending ranges per student have not been changed before and after changing 9th graders scores to nan as well as average and reading scores and the passing rates.
     - Scores after school spending
     - ![After school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20spending.PNG)
 
@@ -62,7 +63,7 @@ The figures remained unaffected for all schools except Thomas High School which 
 
   - Scores by school size
     
-    Thomas High School has 1635 students which refer to the Medium Category. The average math and reading score, the passing percentage and the % Overall students passing of each category remained unaltered.
+    Having 1635  student, Thomas High School falls in the medium size category of schools. While nullifying the 9th graders scores did affect the Thomas High School average scores and passing rates but this change did not reflect in the results for the category itself. 
     - Scores after school size
     - ![After school size.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20size.PNG)
 
@@ -72,7 +73,7 @@ The figures remained unaffected for all schools except Thomas High School which 
 
   - Scores by school type
   
-      Thomas High School is a charter school, so as we see the scores based on school type was not affected by the change in the 9th grade class data
+      Thomas High School is a charter school and our analysis shows that this school type’s scores were not affected by the change in the 9th grade class data of Thomas High School.
     - Scores after school type
     - ![Before school type.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20type.PNG)
 
