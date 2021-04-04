@@ -12,6 +12,24 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 - The scores by school spending per student, by school size, and by school type
 
 ## Results
+- How is the district summary affected?
+  - District Summary after
+    - ![District Summary after.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/District%20Summary%20after.PNG)
+
+  - District Summary before
+    - ![District Summary before.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/District%20Summary%20before.PNG)
+
+- How is the school summary affected?
+  - School Summary after
+    - ![School Summary after.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/School%20Summary%20after.PNG)
+
+  - School Summary before
+    - ![School Summary before.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/School%20Summary%20before.PNG)
+
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
