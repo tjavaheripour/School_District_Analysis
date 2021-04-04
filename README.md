@@ -13,6 +13,8 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 
 ## Results
 - How is the district summary affected?
+
+  Upon reviewing both results of district summaries before and after discarding math and reading scores of Thomas High School grade 9th, we observed no meaningful difference.     Average reading score seems to not be affected at all while average math score, rate of passing math and reading and overall passing rate slightly declined. 
   - District Summary after
     - ![District Summary after.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/District%20Summary%20after.PNG)
 
@@ -20,6 +22,8 @@ The school board has notified analyst about evidence of academic dishonesty; spe
     - ![District Summary before.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/District%20Summary%20before.PNG)
 
 - How is the school summary affected?
+
+The figures remained unaffected for all schools except Thomas High School which shows a significant drop in passing rates.  Passing math rate and passing reading rate declined considerably reaching 66.91% from 93.27% and 69.66% from 97.30% respectively causing the overall passing rate to drop 26% whereas the average math and reading scores only illustrate a negligible drop
   - School Summary after
     - ![School Summary after.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/School%20Summary%20after.PNG)
 
