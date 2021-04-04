@@ -31,6 +31,8 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+  
+    From the following tables we can see the average math and reading scores of Thomas High School 9th graders, replaced by nan while it was assigned to 83.7 as Reading score and 83.6 as Math score before.
     - After reading scores by grade
     - ![After reading scores by grade.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20reading%20scores%20by%20grade.PNG)
 
