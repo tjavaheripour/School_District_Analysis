@@ -63,6 +63,7 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 
 
   - Scores by school type
+  
       Thomas High School is a charter school, so as we see the scores based on school type was not affected by the change in the 9th grade class data
     - Scores after school size
     - ![Before school type.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20type.PNG)
