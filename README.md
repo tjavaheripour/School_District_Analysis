@@ -54,7 +54,8 @@ The school board has notified analyst about evidence of academic dishonesty; spe
 
 
   - Scores by school size
-
+    
+    Thomas High School has 1635 students which refer to the Medium Category. The average math and reading score, the passing percentage and the % Overall students passing of each category remained unaltered.
     - Scores after school size
     - ![After school size.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20size.PNG)
 
