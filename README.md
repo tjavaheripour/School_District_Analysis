@@ -50,7 +50,7 @@ The school board has notified analyst about evidence of academic dishonesty; spe
     - ![After school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/After%20school%20spending.PNG)
 
     - Scores before school spending
-    - ![Before school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20spending.PNG)
+    - ![Scores before school spending.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Scores%20before%20school%20spending.PNG)
 
 
   - Scores by school size
