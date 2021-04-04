@@ -89,3 +89,6 @@ The figures remained unaffected for all schools except Thomas High School which 
     - ![After school type.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/Before%20school%20type.PNG)
 
 ## Summary
+
+Dishonesty discovered which resulted in replacing 9th graders data score of Thomas High School(THS) with nan, largely affected the THS performance summary dropping overall passing percentage to 65% from 90%. This change did not have such a large influence in the results for school size category, type, spending and district summary though.
+Discarding the 9th graders scores completely and basing our analysis on score data of 10th-12th graders put THS in the same rank among other schools as if we included the incorrect 9th graders score data.
