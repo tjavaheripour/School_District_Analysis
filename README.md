@@ -32,6 +32,8 @@ The figures remained unaffected for all schools except Thomas High School which 
     - ![School Summary before.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/School%20Summary%20before.PNG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+   Thomas High School remains among the top performing schools (based on the overall passing percentage) if we base our dataset on 10th-12th graders score.
   - School summary 10th-12th
    - ![replacing.png](https://github.com/tjavaheripour/School_District_Analysis/blob/main/Resources/replacing.PNG)
 
